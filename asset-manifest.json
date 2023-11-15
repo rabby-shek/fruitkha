@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/fruitkha/static/css/main.31d6cfe0.css",
+    "main.js": "/fruitkha/static/js/main.0586d8d8.js",
+    "index.html": "/fruitkha/index.html",
+    "main.0586d8d8.js.map": "/fruitkha/static/js/main.0586d8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0586d8d8.js"
+  ]
+}
